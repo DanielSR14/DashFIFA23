@@ -41,5 +41,5 @@ Para iniciar a aplicação, execute o seguinte comando:
 
 
 ## Agradecimentos
-[Asimov Academy](https://www.youtube.com/@AsimovAcademy)
-[Kaggle](https://www.kaggle.com)
+- [Asimov Academy](https://www.youtube.com/@AsimovAcademy)
+- [Kaggle](https://www.kaggle.com)
